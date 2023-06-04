@@ -1,0 +1,58 @@
+[
+    {
+        "idNuevos": 1,
+        "nombreArtista": "Troye Sivan",
+        "nombreAlbum": "Blue Neighbourhood",
+        "precio": "$29.99",
+        "activo": true
+    },
+    {
+        "idNuevos": 2,
+        "nombreArtista": "Taylor Swift",
+        "nombreAlbum": "Midnights",
+        "precio": "$29.99",
+        "activo": true
+    },
+    {
+        "idNuevos": 3,
+        "nombreArtista": "dont smile at me",
+        "nombreAlbum": "Billie Eilish",
+        "precio": "$29.99",
+        "activo": true
+    },
+    {
+        "idNuevos": 4,
+        "nombreArtista": "U2",
+        "nombreAlbum": "Cool",
+        "precio": "$29.99",
+        "activo": true
+    },
+    {
+        "idNuevos": 5,
+        "nombreArtista": "Olivia Rodrigo",
+        "nombreAlbum": "Sour",
+        "precio": "$29.99",
+        "activo": true
+    },
+    {
+        "idNuevos": 6,
+        "nombreArtista": "Aurora",
+        "nombreAlbum": "The Gods We Can Touch",
+        "precio": "$29.99",
+        "activo": true
+    },
+    {
+        "idNuevos": 7,
+        "nombreArtista": "My Chemical Romance",
+        "nombreAlbum": "The Black Parade is Dead!",
+        "precio": "$29.99",
+        "activo": true
+    },
+    {
+        "idNuevos": 8,
+        "nombreArtista": "Ed Sheeran",
+        "nombreAlbum": "Equals",
+        "precio": "$29.99",
+        "activo": true
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "idVendidos": 1,
+        "nombreArtista": "Paramore",
+        "nombreAlbum": "Brand New Eyes",
+        "precio": "$29.99",
+        "activo": true
+    },
+    {
+        "idVendidos": 2,
+        "nombreArtista": "SZA",
+        "nombreAlbum": "Ctrl",
+        "precio": "$29.99",
+        "activo": true
+    },
+    {
+        "idVendidos": 3,
+        "nombreArtista": "For Real This Time",
+        "nombreAlbum": "New Life",
+        "precio": "$29.99",
+        "activo": true
+    },
+    {
+        "idVendidos": 4,
+        "nombreArtista": "The Strokes",
+        "nombreAlbum": "The New Abnormal",
+        "precio": "$29.99",
+        "activo": true
+    },
+    {
+        "idVendidos": 5,
+        "nombreArtista": "Gracie Abrams",
+        "nombreAlbum": "Minor",
+        "precio": "$29.99",
+        "activo": true
+    },
+    {
+        "idVendidos": 6,
+        "nombreArtista": "The Strokes",
+        "nombreAlbum": "The New Abnormal",
+        "precio": "$29.99",
+        "activo": true
+    },
+    {
+        "idVendidos": 7,
+        "nombreArtista": "St. Paul & The Broken Bones",
+        "nombreAlbum": "The Alien Coast",
+        "precio": "$29.99",
+        "activo": true
+    },
+    {
+        "idVendidos": 8,
+        "nombreArtista": "Paramore",
+        "nombreAlbum": "Riot!",
+        "precio": "$29.99",
+        "activo": true
+    }
+]

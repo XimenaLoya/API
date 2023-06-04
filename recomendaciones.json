@@ -1,0 +1,30 @@
+[
+    {
+        "idReco": 1,
+        "nombreArtista": "Billie Eilish",
+        "nombreAlbum": "dont smile at me",
+        "precio": "$29.99",
+        "activo": true
+    },
+    {
+        "idReco": 2,
+        "nombreArtista": "Paramore",
+        "nombreAlbum": "This is Why",
+        "precio": "$29.99",
+        "activo": true
+    },
+    {
+        "idReco": 3,
+        "nombreArtista": "Ed Sheeran",
+        "nombreAlbum": "Equals",
+        "precio": "$29.99",
+        "activo": true
+    },
+    {
+        "idReco": 4,
+        "nombreArtista": "Taylor Swift",
+        "nombreAlbum": "Midnights",
+        "precio": "$29.99",
+        "activo": true
+    }
+]

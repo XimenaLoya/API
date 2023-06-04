@@ -1,0 +1,75 @@
+[
+    {
+        "idFiltro": 1,
+        "nombre": "Precio",
+        "opciones": [
+            {
+                "nombre": "Precio más bajo"
+            },
+            {
+                "nombre": "Precio más caro"
+            }
+        ]
+        
+    },
+    {
+        "idFiltro": 2,
+        "nombre": "Titulo",
+        "opciones": [
+            {
+                "nombre": "A-Z"
+            },
+            {
+                "nombre": "Z-A"
+            }
+        ]
+        
+    },
+    {
+        "idFiltro": 3,
+        "nombre": "Artista",
+        "opciones": [
+            {
+                "nombre": "A-Z"
+            },
+            {
+                "nombre": "Z-A"
+            }
+         
+        ]
+        
+    },
+    {
+        "idFiltro": 4,
+        "nombre": "Año",
+        "opciones": [
+            {
+                "nombre": "50s"
+            },
+            {
+                "nombre": "60s"
+            },
+            {
+                "nombre": "70s"
+            },
+            {
+                "nombre": "80s"
+            },
+            {
+                "nombre": "90s"
+            },
+            {
+                "nombre": "00s"
+            },
+            {
+                "nombre": "10s"
+            },
+            {
+                "nombre": "20s"
+            }
+         
+        ]
+        
+    }
+]
+

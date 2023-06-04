@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "inicio",
+        "orden":1
+    },
+    {
+        "id": 2,
+        "nombre": "personalizado",
+        "orden":2
+    },
+    {
+        "id": 3,
+        "nombre": "género",
+        "orden":3
+    },
+    {
+        "id": 4,
+        "nombre": "carrito",
+        "orden":4
+    }
+
+]
